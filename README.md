@@ -13,6 +13,7 @@
 6. Mostrar en consola la tabla de multiplicar del 9 (de 1 a 10)
 
 7. Mostrar en consola el siguiente dibujo
+```
 *
 **
 ***
@@ -26,8 +27,10 @@
 ***********
 ************
 *************
+```
 
 8. Mostrar en consola el siguiente dibujo
+```
 *************
 ************
 ***********
@@ -41,8 +44,9 @@
 ***
 **
 *
-
+```
 9. Mostrar en consola el siguiente dibujo
+```
 *
 ***
 *****
@@ -50,6 +54,7 @@
 *********
 ***********
 *************
+```
 
 10. Mostrar en consola la secuencia de Fibonacci para los primeros 10 números
 
