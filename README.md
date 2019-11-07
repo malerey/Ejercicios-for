@@ -31,22 +31,6 @@
 
 8. Mostrar en consola el siguiente dibujo
 ```
-*************
-************
-***********
-**********
-*********
-********
-*******
-******
-*****
-****
-***
-**
-*
-```
-9. Mostrar en consola el siguiente dibujo
-```
 *
 ***
 *****
@@ -56,7 +40,7 @@
 *************
 ```
 
-10. Mostrar en consola la secuencia de Fibonacci para los primeros 10 números
+10. Opcional (dificil): Mostrar en consola la secuencia de Fibonacci para los primeros 10 números
 
 
 
