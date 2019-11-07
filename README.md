@@ -6,11 +6,11 @@
 
 3. Mostrar en consola los números pares del 0 al 1000 
 
-4. Mostrar en consola la suma parcial de todos los números que van desde 0 hasta 1000
+4. Mostrar en consola la tabla de multiplicar del 9 (de 1 a 10)
 
-5. Mostrar en consola la suma parcial de todos los números impares que van desde 0 hasta 1000
+5. Mostrar en consola la suma parcial de todos los números que van desde 0 hasta 1000 (debe mostrar 500500)
 
-6. Mostrar en consola la tabla de multiplicar del 9 (de 1 a 10)
+6. Mostrar en consola la suma parcial de todos los números impares que van desde 0 hasta 1000 (debe mostrar 250000)
 
 7. Mostrar en consola el siguiente dibujo
 ```
