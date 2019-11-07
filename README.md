@@ -40,7 +40,7 @@
 *************
 ```
 
-10. Opcional (dificil): Mostrar en consola la secuencia de Fibonacci para los primeros 10 números
+9. Opcional (dificil): Mostrar en consola la secuencia de Fibonacci para los primeros 10 números
 
 
 
